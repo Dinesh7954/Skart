@@ -1,0 +1,11 @@
+Role of backend developer ?
+A backend Developer is a person who perform programming for server and databases.
+
+why backend ?
+to make website more dynamic , usable and puposeful for client .
+
+why not frontend alone ?
+with frontend websites  are static and they are of not much use.
+
+Middelware are those functions which runs before any route function  having three parameter 
+(req, res , next)
